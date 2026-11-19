@@ -1,0 +1,101 @@
+[
+  {
+    "id": "bug_01_boat_bridge",
+    "title_es": "Glitch del barco atascado en el puente (Bridge Boat Glitch)",
+    "description_es": "Mientras conducía por un puente en GTA VI, el streamer JasonTheWeen encontró un barco grande atascado entre los pilares del puente y una pared, vibrando y moviéndose de forma errática.",
+    "creator_or_source": "JasonTheWeen (reportado por Gulf News, Addicting Games y Navbharat Live)",
+    "url": "https://www.addictinggames.com/news/streamer-finds-first-gta-6-bug",
+    "license_type": "social_media_standard",
+    "raw_reupload_allowed": false,
+    "safe_usage_strategy_es": "No resubir el clip en crudo ni ocultar la fuente. Usar como noticia/análisis transformativo en español explicando el fallo de colisión, apoyado en capturas oficiales de Rockstar Media Hub o un extracto breve acreditado con permiso o bajo Fair Use (audio original del juego silenciado).",
+    "rockstar_policy_risk": "low"
+  },
+  {
+    "id": "bug_02_lucia_falling_ground",
+    "title_es": "Lucia cae atravesando el suelo del mapa",
+    "description_es": "Fallo de detección de colisiones en el que la protagonista Lucia atraviesa el suelo durante una misión, interrumpiendo la partida y obligando a recargar o reiniciar.",
+    "creator_or_source": "Clip viral en X (reportado por Gulf News y GameWatcher)",
+    "url": "https://gulfnews.com/technology/gaming/gta-6-glitches-go-viral-flying-cars-disappearing-characters-and-police-encounter-issues-spark-cyberpunk-2077-comparisons-1.500752989",
+    "license_type": "social_media_standard",
+    "raw_reupload_allowed": false,
+    "safe_usage_strategy_es": "No resubir el clip sin contexto. Narrar en español cómo ocurre el fallo de colisión y qué hacer si te pasa en consola, usando imágenes oficiales de Rockstar y recursos visuales propios o extractos breves acreditados bajo comentario transformativo.",
+    "rockstar_policy_risk": "low"
+  },
+  {
+    "id": "bug_03_jason_cop_clipping",
+    "title_es": "Clipping entre Jason y un oficial de policía",
+    "description_es": "Cuando un oficial de policía carga contra Jason para pelear, ambos modelos se fusionan entre sí (meshing) y atraviesan objetos sólidos del entorno.",
+    "creator_or_source": "MichaelDoesLife (reportado por Beebom y Gulf News)",
+    "url": "https://beebom.com/gta-6-bugs-tracker/",
+    "license_type": "social_media_standard",
+    "raw_reupload_allowed": false,
+    "safe_usage_strategy_es": "Cubrir como noticia técnica o curiosidad de físicas de lanzamiento con locución original en español, texto en pantalla y crédito visible al creador original, manteniendo el audio del juego silenciado.",
+    "rockstar_policy_risk": "low"
+  },
+  {
+    "id": "bug_04_flying_truck_cars",
+    "title_es": "Camión y autos salen disparados por los aires",
+    "description_es": "Bug de físicas en el que un camión sale volando repentinamente a través del mapa tras interactuar con el entorno, junto a otro caso viral de un auto impulsado hacia arriba tras una colisión.",
+    "creator_or_source": "@Synaptic_UK en X (reportado por Gulf News y GameWatcher)",
+    "url": "https://gulfnews.com/technology/gaming/gta-6-glitches-go-viral-flying-cars-disappearing-characters-and-police-encounter-issues-spark-cyberpunk-2077-comparisons-1.500752989",
+    "license_type": "social_media_standard",
+    "raw_reupload_allowed": false,
+    "safe_usage_strategy_es": "Crear un Short o segmento comparando los fallos clásicos de físicas de la saga (como el columpio de GTA IV) con estos clips de lanzamiento, usando narración original, B-roll propio/oficial y atribución clara.",
+    "rockstar_policy_risk": "low"
+  },
+  {
+    "id": "bug_05_bank_mission_softlock",
+    "title_es": "Crashes en el prólogo y softlock en misión del banco de Lucia",
+    "description_es": "Reportes de cierres inesperados en el prólogo, congelamientos, texturas faltantes y un bloqueo de progresión (softlock) en una misión temprana de Lucia al salir de un banco. Nota: GameWatcher aclaró que el clip viral de ohnePixel sobre un supuesto 'no fail' en realidad mostraba la pantalla normal de fallo.",
+    "creator_or_source": "r/GTA6 Launch Day Megathread / GameWatcher",
+    "url": "https://www.gamewatcher.com/gta-6-launches-to-reports-of-bugs-and-review-bias",
+    "license_type": "social_media_standard",
+    "raw_reupload_allowed": false,
+    "safe_usage_strategy_es": "Formato ideal para video informativo/guía de solución de problemas en español (explicando el softlock real y desmintiendo el rumor de ohnePixel), apoyado en capturas oficiales de Rockstar y gráficos informativos.",
+    "rockstar_policy_risk": "low"
+  },
+  {
+    "id": "bug_06_ps5_shutdown_autosave_loss",
+    "title_es": "Pérdida de más de 10 horas de progreso tras apagado en PS5",
+    "description_es": "El streamer JasonTheWeen perdió más de 10 horas de partida tras un apagado inesperado de su PS5, poniendo en evidencia las limitaciones del autoguardado (sin confirmarse como bug generalizado de guardado).",
+    "creator_or_source": "JasonTheWeen (reportado por Techloy)",
+    "url": "https://www.techloy.com/gta-6-save-autosave-recover-progress/",
+    "license_type": "social_media_standard",
+    "raw_reupload_allowed": false,
+    "safe_usage_strategy_es": "Excelente tema de servicio al jugador ('Cómo evitar perder horas en GTA VI: cuidado con el autoguardado') con narración original, consejos de guardado manual y material oficial de Rockstar.",
+    "rockstar_policy_risk": "low"
+  },
+  {
+    "id": "bug_07_store_robbery_money_glitch",
+    "title_es": "Glitch de dinero infinito en robos a tiendas (Store-Robbery Solo Money Glitch)",
+    "description_es": "Exploit reproducible reportado en lanzamiento: activar el disparador de una misión al iniciar la cinemática, reiniciar la misión y salir desde Opciones permite reabrir tiendas robadas para farmear entre 70k y 100k por hora.",
+    "creator_or_source": "JoeyRahmz (créditos a @SilentNine)",
+    "url": "https://www.youtube.com/shorts/D5R2wovnPPA",
+    "license_type": "standard_youtube",
+    "raw_reupload_allowed": false,
+    "safe_usage_strategy_es": "ADVERTENCIA DE POLÍTICA ROCKSTAR: NO publicar como tutorial paso a paso para hacer trampa o farmear dinero ilícito. Cubrir únicamente como noticia informativa ('Rockstar ya investiga este exploit de lanzamiento') sin enseñar a reproducirlo y sin resubir el clip original en crudo.",
+    "rockstar_policy_risk": "high_avoid_tutorial"
+  },
+  {
+    "id": "bug_08_compilation_3h_launch",
+    "title_es": "Compilación de bugs encontrados a 3 horas del lanzamiento",
+    "description_es": "Compilación de 1 minuto con múltiples glitches de las primeras horas de lanzamiento en consola (más de 106 mil vistas en el día de estreno).",
+    "creator_or_source": "@MajesticDrama",
+    "url": "https://www.youtube.com/watch?v=Ek1xjfuS-U8",
+    "license_type": "standard_youtube",
+    "raw_reupload_allowed": false,
+    "safe_usage_strategy_es": "No descargar ni resubir la compilación. Usar solo como referencia periodística para analizar los bugs individuales con guion propio, locución original y visuales oficiales o permiso explícito por escrito.",
+    "rockstar_policy_risk": "low"
+  },
+  {
+    "id": "bug_09_gamebreaking_bug_report",
+    "title_es": "Reporte de bug crítico de lanzamiento (Gamebreaking Bug)",
+    "description_es": "Video de reporte comunitario sobre un fallo crítico detectado durante el día de lanzamiento de GTA VI.",
+    "creator_or_source": "@NexusGamingToob",
+    "url": "https://www.youtube.com/watch?v=GTMKBVb93p4",
+    "license_type": "standard_youtube",
+    "raw_reupload_allowed": false,
+    "safe_usage_strategy_es": "Usar únicamente como fuente de referencia para redactar comentario/análisis noticioso original en español; nunca resubir el metraje original sin permiso comercial por escrito.",
+    "rockstar_policy_risk": "low"
+  }
+]

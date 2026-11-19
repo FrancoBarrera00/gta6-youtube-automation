@@ -1,0 +1,9 @@
+[tono sorprendido] ¿Alguna vez caíste al vacío infinito en pleno estreno de un juego? Eso mismo está pasando en GTA 6.
+
+[pausa corta] En un clip viral compartido en X y reportado por medios como Gulf News y GameWatcher, vemos a Lucia, una de las protagonistas de GTA 6, atravesar el suelo del mapa justo en medio de una misión.
+
+[pausa corta] El problema se debe a un fallo en la detección de colisiones: el suelo deja de registrar al personaje y Lucia cae directamente debajo del escenario, obligando al jugador a reiniciar la misión desde el último punto de control.
+
+[tono informativo] Aunque Rockstar Games desplegó el parche previo 01.002.001 antes del estreno oficial, estos errores puntuales de streaming de terreno suelen aparecer en mundos abiertos tan masivos como Leonida.
+
+[pausa corta] Consejo rápido si te pasa: no intentes nadar bajo el mapa, simplemente recarga el último guardado. ¡Seguime para enterarte de cada parche de GTA 6!

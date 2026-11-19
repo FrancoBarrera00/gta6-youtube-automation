@@ -1,0 +1,9 @@
+[tono intrigado] Mirá lo que pasa cuando un policía carga contra Jason en GTA 6: ¡se fusionan y atraviesan las paredes!
+
+[pausa corta] Este bug fue capturado en directo por el creador MichaelDoesLife y documentado por el rastreador de errores de Beebom. Cuando el oficial de policía corre para taclear a Jason, ambos modelos de personaje se superponen y pierden la colisión con los objetos sólidos del entorno.
+
+[pausa corta] El resultado es una escena digna de memes donde el combate cuerpo a cuerpo rompe por completo la geometría del escenario, recordando a los famosos errores de lanzamiento de otros mundos abiertos.
+
+[tono informativo] Técnicamente, esto sucede cuando la animación de agarre o carga de la inteligencia artificial fuerza la posición del jugador dentro de una pared o mueble cercano.
+
+[pausa corta] ¿Creés que Rockstar lo va a parchear en la primera semana? Dejá tu opinión abajo y activá la campanita para más clips verificados de GTA 6.

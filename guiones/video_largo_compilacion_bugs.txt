@@ -1,0 +1,17 @@
+[tono energetico] ¡Bienvenidos al resumen completo de los bugs y glitches más virales del lanzamiento de GTA 6!
+
+[pausa corta] Hoy, 19 de noviembre de 2026, Grand Theft Auto 6 debutó oficialmente en PlayStation 5 y Xbox Series X y S, mientras la versión de PC todavía sigue a la espera. Y aunque el juego llegó con reseñas históricas y más de diecinueve millones de reservas, las primeras horas de transmisión en vivo dejaron errores tan graciosos como llamativos. En este video analizamos los casos reales verificados por la comunidad y la prensa especializada, siempre acreditando a los creadores originales bajo análisis informativo y Fair Use.
+
+[pausa corta] Número uno: el barco atrapado en el puente. El streamer JasonTheWeen protagonizó uno de los primeros clips virales al cruzar un puente y encontrar una embarcación gigante encajada entre los pilares y el muro, rebotando sin control. Es un fallo clásico de colisión de vehículos grandes contra la geometría del mapa.
+
+[pausa corta] Número dos: Lucia cayendo bajo el mapa. Varios clips en X, recogidos por Gulf News y GameWatcher, muestran a Lucia atravesando el suelo en plena misión por un error temporal de detección de terreno, obligando a reiniciar el punto de control.
+
+[pausa corta] Número tres: el clipping entre Jason y la policía. Documentado por el creador MichaelDoesLife y el rastreador de Beebom, ocurre cuando un oficial carga contra Jason y ambos personajes se fusionan atravesando paredes y objetos sólidos.
+
+[pausa corta] Número cuatro: los vehículos voladores de Synaptic_UK. Dos clips mostraron un camión lanzado a través del cielo y un automóvil disparado hacia arriba tras un choque simple, recordando a las físicas extremas de entregas anteriores.
+
+[pausa corta] Número cinco: cierres inesperados en el prólogo y un softlock real en una misión temprana de Lucia al salir de un banco, reportado en Reddit. Eso sí, te aclaramos que el famoso clip de ohnePixel sobre una misión imposible de fallar resultó ser falso según GameWatcher.
+
+[tono serio] Y una advertencia muy importante para cerrar: ya circulan en YouTube tutoriales de supuestos glitches de dinero infinito robando tiendas, como los que muestran reinicios de misión repetidos. Te recomendamos NO explotar este tipo de fallos, especialmente si planeás jugar funciones en línea: violan los términos de servicio de Rockstar Games, pueden causar pérdida de progreso y exponen tu cuenta a suspensiones o baneos permanentes.
+
+[tono amigable] ¿Cuál de estos bugs te pareció más absurdo? Dejalo en los comentarios, dale me gusta al video y suscribite para seguir toda la cobertura de GTA 6 en español.
