@@ -4,3 +4,9 @@ __pycache__/
 .agents/
 .pytest_cache/
 .gemini
+FrancoBarrera00/
+.cache/
+.local/
+.bash*
+.profile
+.gitconfig

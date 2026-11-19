@@ -1,6 +1,0 @@
-[user]
-	name = frankituzz
-	email = 190788717+FrancoBarrera00@users.noreply.github.com
-[credential "https://github.com"]
-	helper = 
-	helper = !'/opt/antigravity/plugins/github/skills/github/scripts/gh' auth git-credential
